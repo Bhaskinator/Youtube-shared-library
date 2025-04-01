@@ -1,4 +1,4 @@
-@Library('Youtube_shared_library') _
+@Library('Youtube-shared-library') _
 def COLOR_MAP = [
     'FAILURE' : 'danger',
     'SUCCESS' : 'good'
